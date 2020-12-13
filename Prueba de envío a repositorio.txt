@@ -1,1 +1,2 @@
-Hola hola caracola
+
+Pero qué está pasando que con VIM no funciona?
